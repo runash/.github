@@ -7,16 +7,7 @@ Introducing the next generation and future of eCommerce
 >
   ``Where retailers can meet to buyers and demonstrate their products``
 
- 
-  LICENSE:[MIT](url) [GITHUB](url) 
-  
-
-
-
-  
-- [Creative Commons Attribution 4.0 International](https://github.com/rammurmu/oss-enterprise/blob/fe2bea6e38f6f10e524970e60b351d4583f7651d/LICENSE)
-
-- [Content under cc-by-4](https://github.com/rammurmu/oss-enterprise/commit/8984ddab19e4decf77c186122558acb2b570817d) 
+LICENSE:[MIT](url) [GITHUB](url)  
   
 ### We make something people want ###
  ###### Here is runash idea to get we started ######
@@ -30,16 +21,6 @@ Introducing the next generation and future of eCommerce
 
 ## FAQ
 
-- This repository purpose is the learning and contributing 
-
-- Someone contact if have any question @Rammurmu
-
-- Someone make contact if have any question Email Us runashInc@outlook.com
-
-- First step to getting started open sourcing our project become an open source enterprise
-
-- This repository related to our project and business goal is explore and develop the resources necessary to ramp up our team and transform our organization culture
-
-#### Who owns the code I contribute to open source projects?
-  ##License
+###### This repository purpose is the learning and contributi<br>Someone contact if have any question @rammurmu<br>Someone make contact if have any question Email Us admin@runash.in <br>First step to getting started open sourcing RunAsh project become an open source enterprise<br>This repository related to our project and business goal is explore and develop the resources necessary to ramp up our remote team and transform our organization cultureWho owns the code I contribute to open source projects? ######
+## License
   This repository is licensed under [CC-BY-4.0](../LICENSE) (c) 2022 GitHub, Inc.
