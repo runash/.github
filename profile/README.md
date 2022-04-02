@@ -1,5 +1,5 @@
 ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)
-👋 Welcome to RunAsh Family <h1p>
+👋 Welcome to RunAsh Family ! <h1p>
 
 ## The RunAsh README.md Project
 Introducing the next generation and future of eCommerce 
@@ -10,15 +10,15 @@ Introducing the next generation and future of eCommerce
 
 LICENSE: [MIT](url) [GITHUB](url)  
   
-### We make something people want ###
+## 🧑‍💻 We make something people want ##
   RunAh is officially part of<br> [``StartupIndia``](url) [``Y Combinator``](url)<br>[``Startup School``](url) [``Heacker New``](url)
  ###### Here is runash idea to get we started ######
   
  🙋‍♀️ RunAsh one liner<br>
-> A live streaming hybrid platform and marketplace for retailing 
+> A live streaming hybrid marketplace for retailing 
   
  🌈 Contribution guidelines  [Learn more ](url)<br>
- 👩‍💻 Useful resources [Wiki Doc](url) <br>
+ 📚 Useful resources [Wiki Doc](url) <br>
  🍿 Fun facts - what does your team eat for breakfast?<br>
  🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
