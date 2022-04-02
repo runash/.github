@@ -11,6 +11,7 @@ Introducing the next generation and future of eCommerce
 LICENSE: [MIT](url) [GITHUB](url)  
   
 ### We make something people want ###
+  RunAh is officially part of<br> [``StartupIndia``](url) [``Y Combinator``](url)<br>[``Startup School``](url) [``Heacker New``](url)
  ###### Here is runash idea to get we started ######
   
  🙋‍♀️ RunAsh one liner<br>
