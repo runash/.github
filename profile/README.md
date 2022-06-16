@@ -17,9 +17,9 @@ LICENSE: [MIT](url) [GITHUB](url)
  🙋‍♀️ RunAsh one liner<br>
 > A live streaming hybrid marketplace for retailing 
   
- 🌈 Contribution guidelines  [Learn more ](url)<br>
+ >>🌈 Contribution guidelines  [Learn more ](url)<br>
  📚 Useful resources [Wiki Doc](url) <br>
- 🍿 Fun facts - what does your team eat for breakfast?<br>
+>>> 🍿 Fun facts - what does your team eat for breakfast?<br>
  🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ## FAQ
