@@ -14,7 +14,7 @@ LICENSE: [MIT](url) [GITHUB](url)
   Backed by:<br> [StartupIndia](url) [Y Combinator](url)<br>[Startup School](url) [Heacker New](url)
  ###### Here is runash idea to get we started ######
   
- 🙋‍♀️ RunAsh one liner<br>
+ 🙋‍♀️ RunAsh one-liner<br>
 > A live streaming hybrid marketplace for retailing 
   
  >>🌈 Contribution guidelines  [Learn more ](url)<br>
