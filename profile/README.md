@@ -6,12 +6,12 @@ Introducing the next generation and future of eCommerce
 
 >Live retail streaming platform 
 >
-  ``Where retailers can meet to buyers and demonstrate their products``
+  Where retailers can meet to buyers and demonstrate their products
 
 LICENSE: [MIT](url) [GITHUB](url)  
   
 ## 🧑‍💻 We make something people want ##
-  Backed by:<br> [``StartupIndia``](url) [``Y Combinator``](url)<br>[``Startup School``](url) [``Heacker New``](url)
+  Backed by:<br> [StartupIndia](url) [Y Combinator](url)<br>[Startup School](url) [Heacker New](url)
  ###### Here is runash idea to get we started ######
   
  🙋‍♀️ RunAsh one liner<br>
