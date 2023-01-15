@@ -15,7 +15,7 @@ LICENSE: [MIT](url) [GITHUB](url)
  ###### Here is runash idea to get we started ######
   
  🙋‍♀️ RunAsh one-liner<br>
-> A live streaming hybrid marketplace for retailing 
+> A live retail streaming hybrid platform  
   
  >>🌈 Contribution guidelines  [Learn more ](url)<br>
  📚 Useful resources [Wiki Doc](url) <br>
