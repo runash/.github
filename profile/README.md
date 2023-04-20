@@ -7,18 +7,18 @@ The NextGen & future of rOS
 >
   Where retailers can meet to buyers and demonstrate their organic products
   
-## 🧑‍💻 <br>
-   We make something people want 
- 
+## Innovation <br>
+   👩‍💻We make something people want,
+ New ways to use real experience 
 ### Backed by<br> 
     StartupIndia | Y Combinator SUS
   
 Here is runash idea to get we started 
   
- 👥CC Guidelines [Learn more ](https://https://GitHub.com/rammurmu)<br>
+ 👥 CC Guidelines [Learn more ](https://https://GitHub.com/rammurmu)<br>
  📚 Document [Learn more](https://) <br>
- 📝Give [feedback](https://runash.in/feedback)<br>
- ⭐Give GitHub [Start](https://GitHub/runash)
+ 📝 Give [feedback](https://runash.in/feedback)<br>
+ ⭐ Give GitHub [Start](https://GitHub/runash)
 
 ## License
   This repository is licensed under [CC-BY-4.0](../LICENSE) (c) 2022 GitHub, Inc.
