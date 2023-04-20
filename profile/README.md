@@ -1,26 +1,27 @@
-![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)
-<p align="centre"> 👋 Welcome to RunAsh family! </p>
+## ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)<br>Welcome to RunAsh
 
-## The RunAsh README.md Project
-Introducing the next generation and future of eCommerce 
-
->Live retail streaming platform 
+``Introducing``<br>
+The NextGen & future of rOS
+### RunAsh Live
+>A live retail streaming platform 
 >
-  Where retailers can meet to buyers and demonstrate their products
-
-LICENSE: [MIT](url) [GITHUB](url)  
+  Where retailers can meet to buyers and demonstrate their organic products
   
-## 🧑‍💻 We make something people want ##
-  Backed by:<br> [StartupIndia](url) [Y Combinator](url)<br>[Startup School](url) [Heacker New](url)
- ###### Here is runash idea to get we started ######
+## 🧑‍💻 <br>
+   We make something people want 
+ 
+### Backed by<br> 
+    StartupIndia | Y Combinator SUS
   
- 🙋‍♀️ RunAsh one-liner<br>
-> A live retail streaming hybrid platform  
+Here is runash idea to get we started 
   
- >>🌈 Contribution guidelines  [Learn more ](url)<br>
- 📚 Useful resources [Wiki Doc](url) <br>
- 🧙 Remember, We can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
+ 👥CC Guidelines [Learn more ](https://https://GitHub.com/rammurmu)<br>
+ 📚 Document [Learn more](https://) <br>
+ 📝Give [feedback](https://runash.in/feedback)<br>
+ ⭐Give GitHub [Start](https://GitHub/runash)
 
 ## License
   This repository is licensed under [CC-BY-4.0](../LICENSE) (c) 2022 GitHub, Inc.
+
+LICENSE: [MIT](url) | [GITHUB](url)  
+  
