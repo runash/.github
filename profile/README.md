@@ -8,8 +8,8 @@ The NextGen & future of rOS
   Where retailers can meet to buyers and demonstrate their organic products
   
 ## Innovation <br>
-   👩‍💻We make something people want<br>
- New ways to use real experience 
+ New ways to use real experience<br>
+> 👩‍💻We make something people want
 ### Backed by<br> 
     StartupIndia | Y Combinator SUS
   
