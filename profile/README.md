@@ -6,7 +6,7 @@ The NextGen & future of rOS
 ### RunAsh Live
 >A live retail streaming platform 
 >
-  Where retailers can meet to buyers and demonstrate their organic products
+  Where the retailers can meet to buyers and demonstrate their organic products
   
 ## Innovation <br>
  New ways to use real experience<br>
